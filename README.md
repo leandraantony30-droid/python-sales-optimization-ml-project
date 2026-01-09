@@ -70,7 +70,6 @@ python-sales-optimization-project/
 ├── data/
 │   ├── raw/
 │   │   └── sales_raw_data.xlsx
-│   │
 │   └── processed/
 │       └── sales_cleaned_data.xlsx
 │
@@ -103,5 +102,3 @@ python-sales-optimization-project/
 ├── .gitignore
 ├── .gitattributes
 └── requirements.txt
-
-
