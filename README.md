@@ -66,6 +66,7 @@ Many companies apply the **same discount to all customers**, which causes:
 ## 📁 Project Structure
 
 python-sales-optimization-project/
+
 data/
 │   ├── raw/
 │   │   └── sales_raw_data.xlsx
