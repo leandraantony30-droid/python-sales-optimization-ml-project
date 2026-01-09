@@ -66,20 +66,21 @@ Many companies apply the **same discount to all customers**, which causes:
 ## 📁 Project Structure
 
 python-sales-optimization-project/
-│
-├── data/
+data/
 │   ├── raw/
 │   │   └── sales_raw_data.xlsx
 │   └── processed/
 │       └── sales_cleaned_data.xlsx
 │
-├── codes/
+
+codes/
 │   └── Project_report.ipynb
 │
-├── dashboards/
+dashboards/
 │   └── sales_dashboard.pbix
 │
-├── outputs/
+
+outputs/
 │   ├── figures/
 │   │   ├── sales_trends.png
 │   │   ├── customer_clusters.png
@@ -92,13 +93,15 @@ python-sales-optimization-project/
 │   └── reports/
 │       └── presentation.pptx
 │
-├── docs/
+
+docs/
 │   ├── project_overview.md
 │   ├── business_problem.md
 │   └── methodology.md
 │
-├── README.md
-├── LICENSE
-├── .gitignore
-├── .gitattributes
-└── requirements.txt
+
+README.md
+LICENSE
+.gitignore
+.gitattributes
+requirements.txt
