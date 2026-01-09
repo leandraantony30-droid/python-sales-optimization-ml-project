@@ -67,32 +67,33 @@ Many companies apply the **same discount to all customers**, which causes:
 
 python-sales-optimization-project/
 │
-├── 📂 data/
-│   ├── 📂 raw/
+├── data/
+│   ├── raw/
 │   │   └── sales_raw_data.xlsx
 │   │
-│   ├── 📂 processed/
-│   │   └── sales_cleaned_data.xlsx 
-├── 📂 codes/
-│    └── Project report.ipynb
+│   └── processed/
+│       └── sales_cleaned_data.xlsx
 │
-├── 📂 dashboards/
+├── codes/
+│   └── Project_report.ipynb
+│
+├── dashboards/
 │   └── sales_dashboard.pbix
 │
-├── 📂 outputs/
-│   ├── 📂 figures/
+├── outputs/
+│   ├── figures/
 │   │   ├── sales_trends.png
 │   │   ├── customer_clusters.png
 │   │   └── discount_vs_sales.png
 │   │
-│   ├── 📂 models/
+│   ├── models/
 │   │   ├── clustering_model.pkl
 │   │   └── sales_prediction_model.pkl
 │   │
-│   └── 📂 reports/
-│       └──  presentation.pptx
+│   └── reports/
+│       └── presentation.pptx
 │
-├── 📂 docs/
+├── docs/
 │   ├── project_overview.md
 │   ├── business_problem.md
 │   └── methodology.md
