@@ -72,8 +72,7 @@ python-sales-optimization-project/
 │   │   └── sales_raw_data.xlsx
 │   │
 │   ├── 📂 processed/
-│   │   └── sales_cleaned_data.xlsx
-│   
+│   │   └── sales_cleaned_data.xlsx 
 ├── 📂 codes/
 │    └── Project report.ipynb
 │
